@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatGpt</string>
+    <string name="back">back</string>
+    <string name="create_chat">create chat</string>
+    <string name="chats">Chats</string>
+    <string name="gpt">gpt</string>
+    <string name="typing">Typing</string>
+    <string name="chat_gpt">Chat Gpt</string>
+</resources>
